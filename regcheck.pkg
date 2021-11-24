@@ -1,0 +1,10 @@
+v 1.0.0
+d 'REGCHECK': Examining regression assumptions
+d 
+d Stata module to examine regression assumptions
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F regcheck.ado
+F regcheck.sthlp
